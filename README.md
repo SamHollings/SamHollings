@@ -1,4 +1,21 @@
-### Hi there 👋
+# Sam Hollings Github
+## Data Scientist
+I'm mostly concerned with developing data science tools to be used with health data. 
+
+The tools I'm most interested in developing for:
+- python
+  - pyspark
+  - pandas
+  - sklearn
+  - statsmodels
+  - Tensorflow / Keras
+  - Pytorch
+- ANSI-SQL (specifically associated with spark)
+
+The repositories I'm making split into a few categories:
+- making data easier to use and access
+- data science code (such as starter code, or explorations of techniques)
+- documentation of existing health data
 
 <!--
 **SamHollings/SamHollings** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
