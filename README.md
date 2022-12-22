@@ -1,6 +1,13 @@
 # Sam Hollings Github
-## Data Scientist
-I'm mostly concerned with developing data science tools to be used with health data. 
+
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samhollings/)
+[![NHSD RAP CoP Website](https://img.shields.io/static/v1?label=NHS%20Digital&message=RAP%20Community%20of%20Practice&color=005EB8&style=for-the-badge)]()
+
+## Principal Data Scientist and [RAP](https://nhsdigital.github.io/rap-community-of-practice/) Advocate
+
+I'm an experience data scientist, having worked in both academia (Physics, Astronomy, Galaxy Modelling, Material Science, Neutron Diffraction, Cell Biology, Genomics) and in the NHS (Secondary Care, Primary Care, Deaths, Mental Health), using a variety of data science (mostly machine learning and deep learning) techniques.
+
+These days, I'm mainly focussed on leading a team which is working to upskill the other parts of the analytical community, making resources, trainig others, and raising awareness of how concepts from DevOps can improve the lives of analysts. Learn more on [our website](https://nhsdigital.github.io/rap-community-of-practice/).
 
 The tools I'm most interested in developing for:
 - python
