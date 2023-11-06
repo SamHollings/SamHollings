@@ -5,9 +5,13 @@
 
 ## Principal Data Scientist and [RAP](https://nhsdigital.github.io/rap-community-of-practice/) Advocate
 
-I'm an experience data scientist, having worked in both academia (Physics, Astronomy, Galaxy Modelling, Material Science, Neutron Diffraction, Cell Biology, Genomics) and in the NHS (Secondary Care, Primary Care, Deaths, Mental Health), using a variety of data science (mostly machine learning and deep learning) techniques.
+I'm an experienced data scientist, having worked in both academia (Physics, Astronomy, Galaxy Modelling, Material Science, Neutron Diffraction, Cell Biology, Genomics) and in the NHS (Secondary Care, Primary Care, Deaths, Mental Health, COVID), using a variety of data science (mostly machine learning and deep learning) techniques.
 
-These days, I'm mainly focussed on leading a team which is working to upskill the other parts of the analytical community, making resources, trainig others, and raising awareness of how concepts from DevOps can improve the lives of analysts. Learn more on [our website](https://nhsdigital.github.io/rap-community-of-practice/).
+Currently, I'm mainly focussed on leading the NHSE RAP squad, which is working to upskill the other parts of the analytical community, making resources, training others, and raising awareness of how concepts from DevOps can improve the lives of analysts. Learn more on [our website](https://nhsdigital.github.io/rap-community-of-practice/).
+
+I've also recently developed an interest in LLMs, and produced a few tutorials to help people get started:
+* [RAG (Retreival Augemented Generation)](https://colab.research.google.com/github/SamHollings/llm_tutorial/blob/main/llm_tutorial_rag.ipynb): an LLM which looks things up in a database before responding - a cheap and easy way of make it seem like an LLM has local knowledge
+* [RAG with sources Open In Colab](https://colab.research.google.com/github/SamHollings/llm_tutorial/blob/main/llm_tutorial_rag_sources.ipynb) : shows you how get the LLM to give sources for it's claims, and generally how to have more control over the prompts used in the pipeline.
 
 The tools I'm most interested in developing for:
 - python
