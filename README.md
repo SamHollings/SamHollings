@@ -3,7 +3,7 @@
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samhollings/)
 [![NHSD RAP CoP Website](https://img.shields.io/static/v1?label=NHS%20Digital&message=RAP%20Community%20of%20Practice&color=005EB8&style=for-the-badge)](https://nhsdigital.github.io/rap-community-of-practice/)
 
-## Principal Data Scientist and [RAP](https://nhsdigital.github.io/rap-community-of-practice/) Advocate
+## Data Architect (and former Data Scientist) and [RAP](https://nhsdigital.github.io/rap-community-of-practice/) Advocate
 
 I'm an experienced data scientist, having worked in both academia (Physics, Astronomy, Galaxy Modelling, Material Science, Neutron Diffraction, Cell Biology, Genomics) and in the NHS (Secondary Care, Primary Care, Deaths, Mental Health, COVID), using a variety of data science (mostly machine learning and deep learning) techniques.
 
